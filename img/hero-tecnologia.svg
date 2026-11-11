@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 760" role="img" aria-labelledby="t d">
+<title id="t">Tecnologia e segurança jurídica</title><desc id="d">Computador com painel digital, escudo e balança estilizada.</desc>
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#2b7895"/><stop offset="1" stop-color="#14324b"/></linearGradient><linearGradient id="s" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#2bb6a6"/><stop offset="1" stop-color="#167c7a"/></linearGradient></defs>
+<circle cx="460" cy="370" r="300" fill="#1e5b83" opacity=".18"/><circle cx="460" cy="370" r="235" fill="none" stroke="#d6ad62" stroke-width="2" stroke-dasharray="5 15" opacity=".65"/>
+<rect x="140" y="175" width="620" height="390" rx="25" fill="#0a1b2b" stroke="#5c91a8" stroke-width="5"/><rect x="162" y="198" width="576" height="340" rx="12" fill="url(#g)"/>
+<rect x="195" y="230" width="215" height="16" rx="8" fill="#8bd6cc" opacity=".85"/><rect x="195" y="265" width="300" height="9" rx="4" fill="#fff" opacity=".25"/><rect x="195" y="286" width="245" height="9" rx="4" fill="#fff" opacity=".18"/>
+<rect x="195" y="340" width="160" height="140" rx="12" fill="#0d2b42" stroke="#4f91a5"/><path d="M230 440h90M245 420l22-38 22 38M267 382v-20" stroke="#d6ad62" stroke-width="7" fill="none" stroke-linecap="round"/><circle cx="267" cy="357" r="8" fill="#d6ad62"/>
+<rect x="380" y="340" width="315" height="60" rx="10" fill="#fff" opacity=".09"/><rect x="405" y="360" width="175" height="8" rx="4" fill="#8bd6cc"/><rect x="405" y="378" width="245" height="6" rx="3" fill="#fff" opacity=".28"/>
+<rect x="380" y="420" width="315" height="60" rx="10" fill="#fff" opacity=".09"/><circle cx="414" cy="450" r="12" fill="url(#s)"/><path d="m408 450 5 5 9-11" stroke="#fff" stroke-width="3" fill="none"/><rect x="440" y="443" width="205" height="7" rx="4" fill="#fff" opacity=".35"/>
+<path d="M95 565h710l-55 48H150z" fill="#244a63"/><path d="M350 565h200l-18 22H368z" fill="#0b1c2c"/>
+<!-- escudo -->
+<path d="M635 80 755 125v105c0 90-55 145-120 178-65-33-120-88-120-178V125z" fill="url(#s)" stroke="#b8eee5" stroke-width="7"/><path d="m577 239 40 40 78-91" fill="none" stroke="#fff" stroke-width="17" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="130" cy="130" r="14" fill="#d6ad62"/><circle cx="780" cy="530" r="10" fill="#8bd6cc"/><path d="M100 270h42M121 249v42M760 650h48M784 626v48" stroke="#d6ad62" stroke-width="4" opacity=".7"/>
+</svg>
